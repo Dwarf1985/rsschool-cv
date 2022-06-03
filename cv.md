@@ -1,5 +1,7 @@
 # Serafim Shibanov
 
+![Serafim](https://user-images.githubusercontent.com/106686452/171876601-51ae4795-5c08-4a2c-8ee5-3f53e3c300eb.jpg)
+
 **E-mail** - mikamoscow@gmail.com, **Telegram** - @dwarf1985, **Discord** - Serafim Shibanov (@dwarf1985) 
 
 **The goal** - to learn how to write code correctly. 
